@@ -1,0 +1,11 @@
+antecedents,consequents,support,confidence,lift
+"frozenset({'Milk', 'Bread'})","frozenset({'Butter'})",0.045,0.62,1.85
+"frozenset({'Laptop'})","frozenset({'Mouse'})",0.031,0.71,2.10
+"frozenset({'Shampoo', 'Conditioner'})","frozenset({'Hair Mask'})",0.028,0.58,1.67
+"frozenset({'Keyboard'})","frozenset({'Mouse'})",0.026,0.65,1.90
+"frozenset({'Milk'})","frozenset({'Bread'})",0.120,0.75,1.30
+"frozenset({'Bread'})","frozenset({'Milk'})",0.120,0.72,1.30
+"frozenset({'Laptop', 'Mouse'})","frozenset({'Keyboard'})",0.019,0.54,1.80
+"frozenset({'Milk', 'Butter'})","frozenset({'Bread'})",0.034,0.68,1.55
+"frozenset({'Shampoo'})","frozenset({'Conditioner'})",0.060,0.70,1.45
+"frozenset({'Mouse'})","frozenset({'Keyboard'})",0.041,0.63,1.75
